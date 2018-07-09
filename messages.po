@@ -571,7 +571,7 @@ msgstr "Trova"
 #: ../../../include/reallive/rlfloatinglicensedlg_ui.h:54
 #: ../../../include/reallive/rlfloatinglicensesearchdlg.h:20
 msgid "Floating License"
-msgstr ""
+msgstr "Licenza Floating"
 
 #: ../../../include/reallive/rlgotoslidedlg_ui.h:47
 msgid "Go To Slide"
@@ -1639,7 +1639,7 @@ msgstr ""
 
 #: ../../../src/core/allanimations.cpp:1587
 msgid "Custom Path"
-msgstr ""
+msgstr "Percorso personalizzato"
 
 #: ../../../src/core/allanimations.cpp:1603
 #: ../../../src/core/rlanimation.cpp:404 ../../../src/core/rlclickpoint.cpp:224
@@ -16494,10 +16494,9 @@ msgid "Exporting video %s to %s..."
 msgstr "Esportazione video %s A %s"
 
 #: ../../../src/rlexportajax/rlajaxgenerator.cpp:2489
-#, fuzzy, c-format
-#| msgid "Exporting video %s to %s..."
+#, c-format
 msgid "Exporting image %1$s to %2$s..."
-msgstr "Esportazione video %s A %s"
+msgstr "Esportazione immagini %s A %s"
 
 #: ../../../src/rlexportajax/rlajaxgenerator.cpp:2491
 #, c-format
