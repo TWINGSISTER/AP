@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../../include/common/autoshapeaccessdata.h:13
 msgid "Access Data"
-msgstr "Accesso al dati"
+msgstr "Accesso ai dati"
 
 #: ../../../include/common/autoshapecan.h:13
 msgid "Can"
