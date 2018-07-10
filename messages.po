@@ -2309,7 +2309,7 @@ msgstr ""
 
 #: ../../../src/core/rlcontrolgroup.cpp:1695
 msgid "Presentation:"
-msgstr ""
+msgstr "Presentazione:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1696
 #: ../../../src/rlexportpowerpoint/powerpointgenerator.cpp:1089
