@@ -1623,19 +1623,19 @@ msgstr ""
 
 #: ../../../src/core/allanimations.cpp:1579
 msgid "4-Point Star"
-msgstr ""
+msgstr "4 Stelle"
 
 #: ../../../src/core/allanimations.cpp:1580
 msgid "5-Point Star"
-msgstr ""
+msgstr "5 Stelle"
 
 #: ../../../src/core/allanimations.cpp:1581
 msgid "6-Point Star"
-msgstr ""
+msgstr "6 Stelle"
 
 #: ../../../src/core/allanimations.cpp:1582
 msgid "8-Point Star"
-msgstr ""
+msgstr "8 Stelle"
 
 #: ../../../src/core/allanimations.cpp:1587
 msgid "Custom Path"
@@ -1748,28 +1748,28 @@ msgstr ""
 #: ../../../src/reallive/rlmultipleobjectsdlg.cpp:1789
 #: ../../../src/reallive/rlmultipleobjectsdlg.cpp:2249
 msgid "In"
-msgstr ""
+msgstr "In"
 
 #: ../../../src/core/allanimations.cpp:1734
 #: ../../../src/core/allanimations.cpp:1874
 msgid "Out"
-msgstr ""
+msgstr "Out"
 
 #: ../../../src/core/allanimations.cpp:1751
 msgid "Cover"
-msgstr ""
+msgstr "Nascondi"
 
 #: ../../../src/core/allanimations.cpp:1803
 msgid "Uncover"
-msgstr ""
+msgstr "Mostra"
 
 #: ../../../src/core/allanimations.cpp:1854
 msgid "Reveal"
-msgstr ""
+msgstr "Risposta"
 
 #: ../../../src/core/allanimations.cpp:1871
 msgid "Fly Through"
-msgstr ""
+msgstr "Attraversa"
 
 #: ../../../src/core/license.cpp:192 ../../../src/core/license_freereg.cpp:270
 msgid ""
@@ -1788,6 +1788,8 @@ msgid ""
 "Error while connecting to activation server\n"
 "Error: %s"
 msgstr ""
+"Errore durante la connessione al server\n"
+"Errore %s"
 
 #: ../../../src/core/license.cpp:248 ../../../src/core/license.cpp:294
 #: ../../../src/core/license.cpp:360 ../../../src/core/license_freereg.cpp:212
@@ -1846,13 +1848,16 @@ msgid ""
 "Your license is for an older version.\n"
 "Please upgrade to unlock many new features in this version."
 msgstr ""
+"La tua licenza è per una versione precedente.\n"
+"Si prega di aggiornare la licenza per avere le nuove funzionalità presenti "
+"in questa versione."
 
 #: ../../../src/core/license.cpp:800 ../../../src/core/license_freereg.cpp:674
 #: ../../../src/core/license_subscription.cpp:95
 #: ../../../src/core/license_subscription.cpp:229
 #, c-format
 msgid "(Japanese Text To Speech: %s)"
-msgstr ""
+msgstr "(TTS Giapponese %s)"
 
 #: ../../../src/core/license.cpp:800 ../../../src/core/license_floating.cpp:177
 #: ../../../src/core/license_freereg.cpp:674
@@ -1912,7 +1917,7 @@ msgstr ""
 
 #: ../../../src/core/license.cpp:940
 msgid "Your license cannot be used on this platform."
-msgstr ""
+msgstr "La Vostra licenza non può essere usata su questa piattaforma."
 
 #: ../../../src/core/license.cpp:944 ../../../src/core/license_freereg.cpp:617
 msgid ""
@@ -1930,11 +1935,15 @@ msgid ""
 "Purchased: %s\n"
 "Expiry date: %s"
 msgstr ""
+"Edizione: %s\n"
+"In licenza a: %s\n"
+"Acquistata il: %s\n"
+"Scadenza: %s"
 
 #: ../../../src/core/license_floating.cpp:147
 #, c-format
 msgid "Edition: %s, Licensed to: %s, Purchased: %s, Expiry date: %s"
-msgstr ""
+msgstr "Edizione: %s In licenza a: %s Acquistata il: %s Scadenza: %s"
 
 #: ../../../src/core/license_floating.cpp:177
 #, c-format
@@ -1943,6 +1952,9 @@ msgid ""
 "Floating License (Japanese Text To Speech: %s, Volume: %d, Version: %d, "
 "Expiry Date: %s)"
 msgstr ""
+"\n"
+"Licenza Floating (TTS Giapponese:%s, Volume:%d, Versione:%d, Data di "
+"scadenza:%s)"
 
 #: ../../../src/core/license_floating.cpp:192
 #: ../../../src/reallive/rloptionsdlg.cpp:3330
@@ -1954,7 +1966,7 @@ msgstr "Mai"
 #: ../../../src/core/license_floating.cpp:354
 #: ../../../src/core/license_floating.cpp:374
 msgid "License volume limitation has been reached."
-msgstr ""
+msgstr "La limitazione di volume della licenza è stata raggiunta."
 
 #: ../../../src/core/license_sk.cpp:97
 #: ../../../src/rlactivator/rlactivatordlg.cpp:333
@@ -1970,90 +1982,93 @@ msgstr ""
 #: ../../../src/core/license_subscription.cpp:102
 #: ../../../src/core/license_subscription.cpp:107
 msgid "Invalid"
-msgstr ""
+msgstr "Non valido"
 
 #: ../../../src/core/license_subscription.cpp:127
 #: ../../../src/core/license_subscription.cpp:130
 msgid "Expired"
-msgstr ""
+msgstr "Scaduto"
 
 #: ../../../src/core/license_subscription.cpp:235
 #: ../../../src/core/license_subscription.cpp:465
 #, c-format
 msgid "Your subscription for %s has expired on %s"
-msgstr ""
+msgstr "L'abbonamento per %s è scaduto il %s"
 
 #: ../../../src/core/license_subscription.cpp:237
 #, c-format
 msgid "Subscription License (Volume: %d, Expiry Date: %s)"
-msgstr ""
+msgstr "Licenza a termine (Volume:%d, Data di scadenza:%s)"
 
 #: ../../../src/core/license_subscription.cpp:468
 msgid "Your account don't have any valid license yet."
-msgstr ""
+msgstr "Il tuo account non ha ancora alcuna licenza valida."
 
 #: ../../../src/core/license_subscription.cpp:483
 #: ../../../src/reallive/rlsubscriptiondlg.cpp:149
 msgid "Please enter your Account ID."
-msgstr ""
+msgstr "Inserisci il tuo ID utente"
 
 #: ../../../src/core/license_subscription.cpp:486
 msgid "Please enter your Password."
-msgstr ""
+msgstr "Per favore inserisci la tua password"
 
 #: ../../../src/core/license_subscription.cpp:489
 msgid "Account ID or Password is not correct."
-msgstr ""
+msgstr "ID account o password non  corrette."
 
 #: ../../../src/core/license_subscription.cpp:493
 msgid "Your session has expired. Please sign in again."
-msgstr ""
+msgstr "La tua sessione è scaduta. Accedi nuovamente."
 
 #: ../../../src/core/license_subscription.cpp:497
 msgid ""
 "You are signing in from an unrecognized device or location. Please sign in "
 "again with the verification code we have sent to your email."
 msgstr ""
+"Stai  accedendo da un dispositivo o da una  posizione non riconosciuta. "
+"Accedi nuovamente con il codice di verifica che abbiamo inviato al tuo "
+"indirizzo email."
 
 #: ../../../src/core/license_subscription.cpp:500
 msgid "The verification code you entered has expired."
-msgstr ""
+msgstr "Il codice di verifica che hai inserito è scaduto."
 
 #: ../../../src/core/license_subscription.cpp:503
 msgid "The verification code you entered is not correct."
-msgstr ""
+msgstr "Il codice di verifica che hai inserito non è corretto."
 
 #: ../../../src/core/license_subscription.cpp:506
 msgid "New verification code has been sent to your email."
-msgstr ""
+msgstr "Un nuovo codice di verifica è stato inviato al tuo indirizzo email."
 
 #: ../../../src/core/license_subscription.cpp:510
 msgid "You have been signed out."
-msgstr ""
+msgstr "Sei stato disconnesso."
 
 #: ../../../src/core/license_subscription.cpp:513
 msgid "Your subscription volume limitation has been reached."
-msgstr ""
+msgstr "Il tuo limite di volume della sottoscrizione è stato raggiunto."
 
 #: ../../../src/core/license_subscription.cpp:518
 msgid "This account has been blocked."
-msgstr ""
+msgstr "Questo account è stato bloccato."
 
 #: ../../../src/core/license_subscription.cpp:521
 msgid "We are sorry that the license server is currently down for maintenance."
-msgstr ""
+msgstr "Ci dispiace che il server di licenza è attualmente in manutenzione."
 
 #: ../../../src/core/license_subscription.cpp:524
 msgid "Could not connect to the license server."
-msgstr ""
+msgstr "Impossibile connettersi al server di licenza."
 
 #: ../../../src/core/license_subscription.cpp:527
 msgid "There was an error on the license server."
-msgstr ""
+msgstr "C'è stato un errore sul server di licenza."
 
 #: ../../../src/core/license_subscription.cpp:534
 msgid "Unknown error while processing your request."
-msgstr ""
+msgstr "Errore sconosciuto durante l'elaborazione della richiesta."
 
 #: ../../../src/core/rlanimation.cpp:393
 #: ../../../src/reallive/rlactioneditor.cpp:1399
@@ -2074,17 +2089,17 @@ msgstr "Uscita"
 #: ../../../src/core/rlanimation.cpp:397
 #: ../../../src/reallive/rlactioneditor.cpp:1413
 msgid "Emphasis"
-msgstr ""
+msgstr "Enfasi"
 
 #: ../../../src/core/rlanimation.cpp:399
 msgid "Motion Path"
-msgstr ""
+msgstr "Percorso"
 
 #: ../../../src/core/rlcapturesettings.cpp:450
 #: ../../../src/rlcapture/rlcapturecmdsframe.cpp:131
 #: ../../../src/rlcapture/rlcapturecmdsframe.cpp:388
 msgid "Smart Capture"
-msgstr "Smart Capture"
+msgstr "Acquisizione faciiltata"
 
 #: ../../../src/core/rlcapturesettings.cpp:453
 msgid "Full Motion Recording"
@@ -2096,15 +2111,15 @@ msgstr "Flash Video"
 
 #: ../../../src/core/rlcapturesettings.cpp:599
 msgid "H.264/MPEG-4 AVC"
-msgstr ""
+msgstr "H.264/MPEG-4 AVC"
 
 #: ../../../src/core/rlcapturesettings.cpp:648
 msgid "16-bit PCM"
-msgstr ""
+msgstr "16-bit PCM"
 
 #: ../../../src/core/rlcapturesettings.cpp:649
 msgid "Vorbis"
-msgstr ""
+msgstr "Vorbis"
 
 #: ../../../src/core/rlcapturesettings.cpp:650
 #: ../../../src/rlmedia/rlmediautils.cpp:499
@@ -2113,39 +2128,39 @@ msgstr "MP3"
 
 #: ../../../src/core/rlclickpoint.cpp:216
 msgid "Left Clicks"
-msgstr ""
+msgstr "Clic(s) a sinistra"
 
 #: ../../../src/core/rlclickpoint.cpp:216
 msgid "Left Click"
-msgstr ""
+msgstr "Click sinistro"
 
 #: ../../../src/core/rlclickpoint.cpp:218
 msgid "Middle Clicks"
-msgstr ""
+msgstr "Click centrali"
 
 #: ../../../src/core/rlclickpoint.cpp:218
 msgid "Middle Click"
-msgstr ""
+msgstr "Click centrale"
 
 #: ../../../src/core/rlclickpoint.cpp:220
 msgid "Right Clicks"
-msgstr ""
+msgstr "Click(s) a destra"
 
 #: ../../../src/core/rlclickpoint.cpp:220
 msgid "Right Click"
-msgstr ""
+msgstr "Click destro"
 
 #: ../../../src/core/rlclickpoint.cpp:222
 msgid "Left Double-Clicks"
-msgstr ""
+msgstr "Doppi click(s) a  sinistro"
 
 #: ../../../src/core/rlclickpoint.cpp:222
 msgid "Left Double-Click"
-msgstr ""
+msgstr "Doppio click sinistro"
 
 #: ../../../src/core/rlclickpoint.cpp:236
 msgid "Concentric Circles"
-msgstr ""
+msgstr "Cerchi concentrici"
 
 #: ../../../src/core/rlconfig.cpp:214
 #, c-format
@@ -2185,7 +2200,7 @@ msgstr "Oggetto"
 #: ../../../src/core/rlcontrol.cpp:1348
 #: ../../../src/core/rlcontrolstate.cpp:372
 msgid "New State"
-msgstr ""
+msgstr "Nuovo stato"
 
 #: ../../../src/core/rlcontrol.cpp:1536 ../../../src/core/rlnote.cpp:358
 #: ../../../src/core/rlresourceitem.cpp:77
@@ -2204,16 +2219,16 @@ msgstr "Evidenziatore"
 #: ../../../src/reallive/rlmultipleobjects_ui.cpp:86
 #: ../../../src/reallive/rlmultipleobjects_ui.cpp:379
 msgid "Hover"
-msgstr ""
+msgstr "Mouse sopra"
 
 #: ../../../src/core/rlcontrolbutton.cpp:97
 msgid "Clicked"
-msgstr ""
+msgstr "Clickato"
 
 #: ../../../src/core/rlcontrolbutton.cpp:112
 #: ../../../src/core/rlcontroltoggle.cpp:321
 msgid "Disabled"
-msgstr ""
+msgstr "Disabilitato"
 
 #: ../../../src/core/rlcontroldroparea.cpp:51
 #: ../../../src/reallive/realliveview.cpp:4774
@@ -2223,34 +2238,34 @@ msgstr ""
 #: ../../../src/reallive/rlui.cpp:408 ../../../src/reallive/rlui.cpp:1151
 #: ../../../src/rlexportajax/rlajaxflashlanguage.cpp:91
 msgid "Drop Area"
-msgstr ""
+msgstr "Area per il deposito"
 
 #: ../../../src/core/rlcontrolgesture.cpp:46
 #: ../../../src/reallive/rlmultipleobjects_ui.cpp:44
 #: ../../../src/reallive/rlmultipleobjects_ui.cpp:334
 #: ../../../src/reallive/rlmultipleobjectsdlg.cpp:1100
 msgid "Gesture Effect"
-msgstr ""
+msgstr "Effetto Gestuale"
 
 #: ../../../src/core/rlcontrolgroup.cpp:615
 msgid "Multiple Choice Question"
-msgstr ""
+msgstr "Scelta Multipla"
 
 #: ../../../src/core/rlcontrolgroup.cpp:617
 msgid "Multiple Response Question"
-msgstr ""
+msgstr "Risposta Multipla"
 
 #: ../../../src/core/rlcontrolgroup.cpp:619
 msgid "True/False Question"
-msgstr ""
+msgstr "Vero/Falso"
 
 #: ../../../src/core/rlcontrolgroup.cpp:621
 msgid "Fill In Multiple Blanks Question"
-msgstr ""
+msgstr "Riempi Spazi Bianchi"
 
 #: ../../../src/core/rlcontrolgroup.cpp:623
 msgid "Sequence Question"
-msgstr ""
+msgstr "Sequenza"
 
 #: ../../../src/core/rlcontrolgroup.cpp:625
 msgid "Drag-n-Drop Question"
