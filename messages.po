@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SearchPath-0: ../../../src\n"
@@ -52,7 +52,7 @@ msgstr "Forma libera: forma"
 
 #: ../../../include/common/autoshapecustom.h:51
 msgid "Freeform: Scribble"
-msgstr ""
+msgstr "Forma libera: Scarabocchio"
 
 #: ../../../include/common/autoshapedata.h:13
 msgid "Data"
@@ -135,7 +135,7 @@ msgstr "Ottagono"
 
 #: ../../../include/common/autoshapeoffpageconnector.h:13
 msgid "Offpage Connector"
-msgstr ""
+msgstr "Connettore tra pagine"
 
 #: ../../../include/common/autoshapeoval.h:15
 msgid "Oval"
@@ -571,7 +571,7 @@ msgstr "Trova"
 #: ../../../include/reallive/rlfloatinglicensedlg_ui.h:54
 #: ../../../include/reallive/rlfloatinglicensesearchdlg.h:20
 msgid "Floating License"
-msgstr "Licenza Floating"
+msgstr "Licenza floating"
 
 #: ../../../include/reallive/rlgotoslidedlg_ui.h:47
 msgid "Go To Slide"
@@ -1071,7 +1071,7 @@ msgstr "Linee e Frecce"
 
 #: ../../../src/common/autoshapecreator.cpp:47
 msgid "Block Arrows"
-msgstr ""
+msgstr "Frecce grandi"
 
 #: ../../../src/common/autoshapecreator.cpp:49
 msgid "Basic Shapes"
@@ -1341,7 +1341,7 @@ msgstr "Cresce ruotando"
 #: ../../../src/core/allanimations.cpp:974
 #: ../../../src/core/allanimations.cpp:1409
 msgid "Swivel"
-msgstr ""
+msgstr "Girevole"
 
 #: ../../../src/core/allanimations.cpp:1002
 #: ../../../src/core/allanimations.cpp:1437
@@ -1611,11 +1611,11 @@ msgstr "Ripeti"
 
 #: ../../../src/core/allanimations.cpp:1568
 msgid "Horizontal Figure 8"
-msgstr ""
+msgstr "Figura  orizzontale 8"
 
 #: ../../../src/core/allanimations.cpp:1569
 msgid "Vertical Figure 8"
-msgstr ""
+msgstr "Figura verticale 8"
 
 #: ../../../src/core/allanimations.cpp:1570
 msgid "Loop de Loop"
@@ -1623,19 +1623,19 @@ msgstr ""
 
 #: ../../../src/core/allanimations.cpp:1579
 msgid "4-Point Star"
-msgstr "4 Stelle"
+msgstr "Stella a 4 punte"
 
 #: ../../../src/core/allanimations.cpp:1580
 msgid "5-Point Star"
-msgstr "5 Stelle"
+msgstr "Stella a 5 punte"
 
 #: ../../../src/core/allanimations.cpp:1581
 msgid "6-Point Star"
-msgstr "6 Stelle"
+msgstr "Stella a 6 punte"
 
 #: ../../../src/core/allanimations.cpp:1582
 msgid "8-Point Star"
-msgstr "8 Stelle"
+msgstr "Stella a 8 punte"
 
 #: ../../../src/core/allanimations.cpp:1587
 msgid "Custom Path"
@@ -1740,7 +1740,7 @@ msgstr "Dissolvenza"
 
 #: ../../../src/core/allanimations.cpp:1625
 msgid "Push"
-msgstr ""
+msgstr "Inserisci"
 
 #: ../../../src/core/allanimations.cpp:1733
 #: ../../../src/core/allanimations.cpp:1873
@@ -1765,7 +1765,7 @@ msgstr "Mostra"
 
 #: ../../../src/core/allanimations.cpp:1854
 msgid "Reveal"
-msgstr "Risposta"
+msgstr "Mostra risposta"
 
 #: ../../../src/core/allanimations.cpp:1871
 msgid "Fly Through"
@@ -1788,8 +1788,7 @@ msgid ""
 "Error while connecting to activation server\n"
 "Error: %s"
 msgstr ""
-"Errore durante la connessione al server\n"
-"Errore %s"
+"Errore durante la connessione all'errore del server di attivazione Errore: %s"
 
 #: ../../../src/core/license.cpp:248 ../../../src/core/license.cpp:294
 #: ../../../src/core/license.cpp:360 ../../../src/core/license_freereg.cpp:212
@@ -1953,7 +1952,7 @@ msgid ""
 "Expiry Date: %s)"
 msgstr ""
 "\n"
-"Licenza Floating (TTS Giapponese:%s, Volume:%d, Versione:%d, Data di "
+"Licenza Floating (TTS Giapponese:%s, Quantità:%d, Versione:%d, Data di "
 "scadenza:%s)"
 
 #: ../../../src/core/license_floating.cpp:192
@@ -1966,7 +1965,7 @@ msgstr "Mai"
 #: ../../../src/core/license_floating.cpp:354
 #: ../../../src/core/license_floating.cpp:374
 msgid "License volume limitation has been reached."
-msgstr "La limitazione di volume della licenza è stata raggiunta."
+msgstr "La limitazione sul numero delle licenze è stata raggiunta."
 
 #: ../../../src/core/license_sk.cpp:97
 #: ../../../src/rlactivator/rlactivatordlg.cpp:333
@@ -1998,11 +1997,11 @@ msgstr "L'abbonamento per %s è scaduto il %s"
 #: ../../../src/core/license_subscription.cpp:237
 #, c-format
 msgid "Subscription License (Volume: %d, Expiry Date: %s)"
-msgstr "Licenza a termine (Volume:%d, Data di scadenza:%s)"
+msgstr "Licenza a termine (Quantità:%d, Data di scadenza:%s)"
 
 #: ../../../src/core/license_subscription.cpp:468
 msgid "Your account don't have any valid license yet."
-msgstr "Il tuo account non ha ancora alcuna licenza valida."
+msgstr "Il tuo conto non ha ancora delle licenze valide."
 
 #: ../../../src/core/license_subscription.cpp:483
 #: ../../../src/reallive/rlsubscriptiondlg.cpp:149
@@ -2048,7 +2047,7 @@ msgstr "Sei stato disconnesso."
 
 #: ../../../src/core/license_subscription.cpp:513
 msgid "Your subscription volume limitation has been reached."
-msgstr "Il tuo limite di volume della sottoscrizione è stato raggiunto."
+msgstr "Il tuo limite di licenze per il tuo conto è stato raggiunto."
 
 #: ../../../src/core/license_subscription.cpp:518
 msgid "This account has been blocked."
@@ -2056,7 +2055,7 @@ msgstr "Questo account è stato bloccato."
 
 #: ../../../src/core/license_subscription.cpp:521
 msgid "We are sorry that the license server is currently down for maintenance."
-msgstr "Ci dispiace che il server di licenza è attualmente in manutenzione."
+msgstr "Ci dispiace ma il server di licenza è attualmente in manutenzione."
 
 #: ../../../src/core/license_subscription.cpp:524
 msgid "Could not connect to the license server."
@@ -2099,7 +2098,7 @@ msgstr "Percorso"
 #: ../../../src/rlcapture/rlcapturecmdsframe.cpp:131
 #: ../../../src/rlcapture/rlcapturecmdsframe.cpp:388
 msgid "Smart Capture"
-msgstr "Acquisizione faciiltata"
+msgstr "Smart Capture"
 
 #: ../../../src/core/rlcapturesettings.cpp:453
 msgid "Full Motion Recording"
@@ -2132,11 +2131,11 @@ msgstr "Clic(s) a sinistra"
 
 #: ../../../src/core/rlclickpoint.cpp:216
 msgid "Left Click"
-msgstr "Click sinistro"
+msgstr "Click a sinistra"
 
 #: ../../../src/core/rlclickpoint.cpp:218
 msgid "Middle Clicks"
-msgstr "Click centrali"
+msgstr "Click centrale"
 
 #: ../../../src/core/rlclickpoint.cpp:218
 msgid "Middle Click"
@@ -2148,15 +2147,15 @@ msgstr "Click(s) a destra"
 
 #: ../../../src/core/rlclickpoint.cpp:220
 msgid "Right Click"
-msgstr "Click destro"
+msgstr "Click a destra"
 
 #: ../../../src/core/rlclickpoint.cpp:222
 msgid "Left Double-Clicks"
-msgstr "Doppi click(s) a  sinistro"
+msgstr "Doppi click(s) a sinistra"
 
 #: ../../../src/core/rlclickpoint.cpp:222
 msgid "Left Double-Click"
-msgstr "Doppio click sinistro"
+msgstr "Doppio click a sinistra"
 
 #: ../../../src/core/rlclickpoint.cpp:236
 msgid "Concentric Circles"
@@ -2200,7 +2199,7 @@ msgstr "Oggetto"
 #: ../../../src/core/rlcontrol.cpp:1348
 #: ../../../src/core/rlcontrolstate.cpp:372
 msgid "New State"
-msgstr "Nuovo stato"
+msgstr "Aggiungi un nuovo stato"
 
 #: ../../../src/core/rlcontrol.cpp:1536 ../../../src/core/rlnote.cpp:358
 #: ../../../src/core/rlresourceitem.cpp:77
@@ -2269,7 +2268,7 @@ msgstr "Sequenza"
 
 #: ../../../src/core/rlcontrolgroup.cpp:625
 msgid "Drag-n-Drop Question"
-msgstr ""
+msgstr "Quale trascinare"
 
 #: ../../../src/core/rlcontrolgroup.cpp:627
 msgid "Rating Scale (Likert) Question"
@@ -2278,7 +2277,7 @@ msgstr ""
 #: ../../../src/core/rlcontrolgroup.cpp:629
 #: ../../../src/core/rlcontrolgroup.cpp:631
 msgid "Group Object"
-msgstr ""
+msgstr "Ogggetto Gruppo"
 
 #: ../../../src/core/rlcontrolgroup.cpp:924
 #: ../../../src/core/rlcontrolgroup.cpp:940
@@ -2318,35 +2317,35 @@ msgstr "Descrizione"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1697
 msgid "Date:"
-msgstr ""
+msgstr "Data:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1698
 msgid "Total Time:"
-msgstr ""
+msgstr "Durata Totale:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1699
 msgid "Taken Slides:"
-msgstr ""
+msgstr "Slide Mostrate:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1700
 msgid "Taken Interactions:"
-msgstr ""
+msgstr "Interazioni Eseguite:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1701
 msgid "Correct:"
-msgstr ""
+msgstr "Corretto"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1702
 msgid "Score:"
-msgstr ""
+msgstr "Punteggio:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1703
 msgid "Percentage:"
-msgstr ""
+msgstr "Percentuale:"
 
 #: ../../../src/core/rlcontrolgroup.cpp:1704
 msgid "Result:"
-msgstr ""
+msgstr "Risultato"
 
 #: ../../../src/core/rlcontrolinput.cpp:52
 #: ../../../src/reallive/realliveview.cpp:4772
@@ -2373,7 +2372,7 @@ msgstr "Clic del Mouse"
 #: ../../../src/core/rlcontrolmediaeffect.cpp:817
 #, c-format
 msgid "Blur %d"
-msgstr ""
+msgstr "Sfoca %d"
 
 #: ../../../src/core/rlcontrolmediaeffect.cpp:819
 #, c-format
